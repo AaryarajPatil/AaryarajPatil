@@ -1,7 +1,10 @@
-## Hi there 👋
+# Aaryaraj Patil
 
-# 💫 About Me:
-# Hi there, I'm Aaryaraj Patil 👋<br><br>🎓 **Third-Year Computer Science Engineering Student (AI & ML)** at Vishwakarma Institute of Technology, Pune.<br><br>🤖 Passionate about Artificial Intelligence, Machine Learning, and building technology-driven solutions to real-world problems.<br><br>### 💻 About Me<br>- 🔭 Working on AI/ML and full-stack development projects.<br>- 🧠 Exploring Deep Learning, Explainable AI (XAI), and Data Science.<br>- 🌱 Continuously learning new technologies and improving my problem-solving skills.<br>- 🚀 Interested in developing impactful projects that combine innovation and practical applications.<br>- 🤝 Open to collaborating on interesting projects and learning from the developer community.<br><br>### 🛠️ Technologies & Tools<br>- **Languages:** Python, Java, C, C++, SQL<br>- **AI/ML:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy<br>- **Web Development:** HTML, CSS, JavaScript, React, Flask, Node.js<br>- **Databases:** MySQL<br>- **Tools:** Git, GitHub, VS Code<br><br>### 🚀 Featured Projects<br>- 🩺 **Retina Disease Detection** — CNN-based retinal image classification using MobileNetV2 and Grad-CAM.<br>- 🧠 **Explainable ML for Health Prediction** — Lifestyle-based health risk prediction with SHAP explainability.<br>- 🧩 **Puzzle Pie** — An educational math game designed to support people with dyscalculia.<br><br>### 📫 Let's Connect<br>I'm always eager to learn, build, and collaborate on exciting projects!<br><br>⭐ *Keep learning. Keep building. Keep innovating.*
+**Computer Science Engineering Student | AI & Machine Learning&#x20;**
+
+Computer Science Engineering undergraduate at Vishwakarma Institute of Technology, Pune, specializing in Artificial Intelligence and Machine Learning. Interested in developing intelligent applications, applying machine learning to real-world problems, and building reliable software solutions.
+
+##
 
 
 ## 🌐 Socials:
