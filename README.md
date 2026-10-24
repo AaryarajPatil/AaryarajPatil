@@ -2,7 +2,7 @@
 
 **Computer Science Engineering Student | AI & Machine Learning&#x20;**
 
-Computer Science Engineering undergraduate at Vishwakarma Institute of Technology, Pune, specializing in Artificial Intelligence and Machine Learning. Interested in developing intelligent applications, applying machine learning to real-world problems, and building reliable software solutions.
+Computer Science Engineering Undergraduate at Vishwakarma Institute of Technology, Pune, specializing in Artificial Intelligence and Machine Learning. Interested in developing intelligent applications, applying machine learning to real-world problems, and building reliable software solutions.
 
 ##
 
